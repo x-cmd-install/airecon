@@ -7,7 +7,7 @@ about:
   head: 9a21453
   archived: false
   latestVersion: 0.1.7-beta
-  collectedAt: 2026-09-04T19:46:19Z
+  collectedAt: 2026-09-04T20:51:15Z
 timeline:
   created: 2026-03-05
   lastCommit: 2026-04-23
@@ -83,5 +83,68 @@ total:
   openIssue: 4
   commit: 320
 ---
+path: /home/runner/.x-repo/github.com/pikpikcu/airecon
+collectedAt: 2026-09-04T20:51:16Z
+loc:
+  Python:
+    code: 80672
+    comments: 1896
+    blanks: 13650
+    files: 234
+  Json:
+    code: 13164
+    comments: 0
+    blanks: 56
+    files: 19
+  Sh:
+    code: 420
+    comments: 59
+    blanks: 97
+    files: 3
+  Dockerfile:
+    code: 271
+    comments: 45
+    blanks: 31
+    files: 1
+  Yaml:
+    code: 154
+    comments: 5
+    blanks: 22
+    files: 2
+  Toml:
+    code: 88
+    comments: 3
+    blanks: 9
+    files: 1
+  Bash:
+    code: 85
+    comments: 1
+    blanks: 18
+    files: 1
+  Css:
+    code: 79
+    comments: 4
+    blanks: 14
+    files: 1
+  Jupyter:
+    code: 0
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 23868
+    blanks: 9123
+    files: 152
+  Text:
+    code: 0
+    comments: 1327
+    blanks: 244
+    files: 11
+total:
+  code: 104934
+  comments: 29392
+  blanks: 24806
+  files: 426
 ---
 
