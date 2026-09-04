@@ -1,11 +1,13 @@
 about:
-  description: AIRecon is an autonomous cybersecurity agent that combines a self-hosted Large Language Model (Ollama) with a Kali Linux Docker sandbox and a Textual TUI. It is designed to automate security assessments, penetration testing, and bug bounty reconnaissance — without any API keys or cloud dependency.
+  description:
+  |
+    AIRecon is an autonomous cybersecurity agent that combines a self-hosted Large Language Model (Ollama) with a Kali Linux Docker sandbox and a Textual TUI. It is designed to automate security assessments, penetration testing, and bug bounty reconnaissance — without any API keys or cloud dependency.
   license: MIT
   homepage: 
   head: 9a21453
   archived: false
   latestVersion: 0.1.7-beta
-  collectedAt: 2026-09-04T04:47:32Z
+  collectedAt: 2026-09-04T19:46:19Z
 timeline:
   created: 2026-03-05
   lastCommit: 2026-04-23
@@ -16,17 +18,25 @@ popularity:
   fork: 161
   release: 3
   contributor: 2
-  pullRequest: 5
+  pullRequest: 94
   issue: 28
 language:
   Python: 3615316
   Shell: 24830
   Jupyter Notebook: 24637
   Dockerfile: 18767
-totalLine: 3683550
+totalBytes: 3683550
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -57,3 +67,21 @@ recent:
     closedIssue: 24
     openIssue: 4
     commit: 238
+  last720d:
+    since: 2024-09-14
+    release: 3
+    mergedPR: 89
+    openPR: 1
+    closedIssue: 24
+    openIssue: 4
+    commit: 320
+total:
+  release: 3
+  mergedPR: 89
+  openPR: 1
+  closedIssue: 24
+  openIssue: 4
+  commit: 320
+---
+---
+
