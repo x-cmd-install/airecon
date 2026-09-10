@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7515,
       "digest": "sha256:091936c787d6ff2620e0752674452bedb23da3cf6bcfa6afe8a96f33eb4e200b",
-      "download_count": 89,
+      "download_count": 91,
       "created_at": "2026-04-03T12:16:00Z",
       "updated_at": "2026-04-03T12:16:02Z",
       "browser_download_url": "https://github.com/pikpikcu/airecon/releases/download/0.1.7-beta/install.sh"

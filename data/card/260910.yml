@@ -7,7 +7,7 @@ about:
   latestVersion: "0.1.7-beta"
   latestRelease: "0.1.7-beta"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:16:27Z
+  collectedAt: 2026-09-10T23:41:37Z
 timeline:
   created: 2026-03-05
   lastCommit: 2026-04-23
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-04-03
   lastPrerelease: 
 popularity:
-  star: 992
+  star: 1006
   watcher: 8
-  fork: 161
+  fork: 162
   release: 3
   contributor: 2
   pullRequest: 94
@@ -86,7 +86,7 @@ total:
   commit: 320
 ---
 path: /home/runner/.x-repo/github.com/pikpikcu/airecon
-collectedAt: 2026-09-10T18:16:30Z
+collectedAt: 2026-09-10T23:41:38Z
 loc:
   Python:
     code: 80672
