@@ -4,7 +4,7 @@
 
 AIRecon is an autonomous cybersecurity agent that combines a self-hosted Large Language Model (Ollama) with a Kali Linux Docker sandbox and a Textual TUI. It is designed to automate security assessments, penetration testing, and bug bounty reconnaissance — without any API keys or cloud dependency.
 
-[![x-cmd/install — airecon Code Quality Monitoring Repo Card](https://repo.x-cmd.io/airecon.svg)](https://x-cmd.com/install/airecon)
+[![x-cmd/install — airecon Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/airecon.svg)](https://x-cmd.com/install/airecon)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **98,908** lines of code across **282** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 2 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last180d | 2026-03-26 | 1 | 25 | 0 | 3 | 2 | 80 |
-| 360d | 2025-09-27 | 3 | 90 | 0 | 26 | 2 | 248 |
-| last720d | 2024-10-02 | 3 | 90 | 0 | 26 | 2 | 331 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 2 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last180d | 2026-03-27 | 1 | 24 | 0 | 3 | 2 | 80 |
+| 360d | 2025-09-28 | 3 | 90 | 0 | 26 | 2 | 248 |
+| last720d | 2024-10-03 | 3 | 90 | 0 | 26 | 2 | 331 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for airecon lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:38:35Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:51:48Z._
