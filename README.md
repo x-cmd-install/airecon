@@ -14,12 +14,12 @@ x install airecon
 
 ## Code insight
 
-Total: **98,074** lines of code across **284** files in the top 5 languages.
+Total: **106,424** lines of code across **332** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 83,357 | 2,285 | 14,198 | 255 |
-| Json | 13,621 | 0 | 55 | 23 |
+| Python | 91,686 | 1,077 | 15,544 | 302 |
+| Json | 13,640 | 0 | 55 | 24 |
 | Sh | 420 | 68 | 97 | 3 |
 | Dockerfile | 271 | 45 | 31 | 1 |
 | Yaml | 154 | 5 | 22 | 2 |
@@ -32,27 +32,27 @@ Total: **98,074** lines of code across **284** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.1.7-beta` (2026-04-03)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-11-12
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 1,091 · **Forks**: 172 · **Open issues**: 33 · **Contributors**: 3
+- **Stars**: 1,090 · **Forks**: 173 · **Open issues**: 33 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 93 · **Open PRs**: 2 · **Closed issues**: 26 · **Open issues**: 7 · **Commits**: 335
+- **Releases**: 3 · **Merged PRs**: 95 · **Open PRs**: 0 · **Closed issues**: 27 · **Open issues**: 6 · **Commits**: 353
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 1 | 2 | 0 | 5 | 0 |
-| last60d | 2026-09-13 | 0 | 3 | 2 | 0 | 5 | 2 |
-| 90d | 2026-08-14 | 0 | 3 | 2 | 0 | 5 | 4 |
-| last180d | 2026-05-16 | 0 | 4 | 2 | 0 | 5 | 12 |
-| 360d | 2025-11-17 | 3 | 93 | 2 | 26 | 7 | 250 |
-| last720d | 2024-11-22 | 3 | 93 | 2 | 26 | 7 | 335 |
+| 30d | 2026-10-14 | 0 | 3 | 0 | 1 | 3 | 0 |
+| last60d | 2026-09-14 | 0 | 5 | 0 | 1 | 4 | 0 |
+| 90d | 2026-08-15 | 0 | 5 | 0 | 1 | 4 | 0 |
+| last180d | 2026-05-17 | 0 | 6 | 0 | 1 | 4 | 0 |
+| 360d | 2025-11-18 | 3 | 95 | 0 | 27 | 6 | 0 |
+| last720d | 2024-11-23 | 3 | 95 | 0 | 27 | 6 | 353 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for airecon lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T09:14:09Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:28:33Z._
