@@ -37,22 +37,22 @@ Total: **106,424** lines of code across **332** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,092 · **Forks**: 176 · **Open issues**: 33 · **Contributors**: 5
+- **Stars**: 1,095 · **Forks**: 176 · **Open issues**: 33 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 3 · **Merged PRs**: 95 · **Open PRs**: 0 · **Closed issues**: 27 · **Open issues**: 6 · **Commits**: 353
+- **Releases**: 3 · **Merged PRs**: 94 · **Open PRs**: 0 · **Closed issues**: 27 · **Open issues**: 6 · **Commits**: 353
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 3 | 0 | 1 | 3 | 9 |
-| last60d | 2026-09-17 | 0 | 5 | 0 | 1 | 4 | 14 |
-| 90d | 2026-08-18 | 0 | 5 | 0 | 1 | 4 | 16 |
-| last180d | 2026-05-20 | 0 | 6 | 0 | 1 | 4 | 24 |
-| 360d | 2025-11-21 | 3 | 95 | 0 | 27 | 6 | 262 |
-| last720d | 2024-11-26 | 3 | 95 | 0 | 27 | 6 | 353 |
+| 30d | 2026-10-20 | 0 | 2 | 0 | 1 | 3 | 8 |
+| last60d | 2026-09-20 | 0 | 4 | 0 | 1 | 4 | 13 |
+| 90d | 2026-08-21 | 0 | 4 | 0 | 1 | 4 | 15 |
+| last180d | 2026-05-23 | 0 | 5 | 0 | 1 | 4 | 23 |
+| 360d | 2025-11-24 | 3 | 94 | 0 | 27 | 6 | 261 |
+| last720d | 2024-11-29 | 3 | 94 | 0 | 27 | 6 | 353 |
 
 ## Release assets
 
@@ -69,4 +69,4 @@ Install metadata for airecon lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:45:21Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:28:27Z._
